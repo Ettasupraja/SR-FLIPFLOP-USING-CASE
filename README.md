@@ -65,7 +65,7 @@ endmodule
 
 
 **RTL LOGIC FOR FLIPFLOPS**
-![WhatsApp Image 2024-04-25 at 15 43 46_d964db26](https://github.com/Ettasupraja/SR-FLIPFLOP-USING-CASE/assets/151641352/48bd8654-45ff-447c-9700-1a871826b29e)
+![WhatsApp Image 2024-04-25 at 15 43 46_d964db26](https://github.com/Ettasupraja/SR-FLIPFLOP-USING-CASE/assets/151641352/48bd8654-45ff-447c-9700-1a871826b29e) 
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
